@@ -1,4 +1,4 @@
-// How to setup ZER0BOT V2
+// How to setup ZER0BOT V3
 // Using Debian, Unbuntu,... server, Im setup done in server Ubuntu 20.04, Debian 20
 
 1. Install NodeJS 12.x
